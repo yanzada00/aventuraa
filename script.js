@@ -12,7 +12,7 @@ const proximoElemento= document.getElementById('proximopasso');
 if(proximoElemento){
     proximoElemento.classList.add('ativo');
     else{
-        console.error(`elemento com id"$ {proximopasso}" não encontrado.`)
+        console.error(`Elemento com ID"$ {proximoPasso}" não encontrado.`)
     }
 }
 } 
